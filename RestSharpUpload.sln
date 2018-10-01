@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpUpload", "RestSharpUpload\RestSharpUpload.csproj", "{F4B240C4-AB8B-419A-9C61-0DF018349F47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpUpload.Server", "RestSharpUpload.Server\RestSharpUpload.Server.csproj", "{BCC8D33E-0B73-4A20-A254-AC158983BD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B240C4-AB8B-419A-9C61-0DF018349F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B240C4-AB8B-419A-9C61-0DF018349F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B240C4-AB8B-419A-9C61-0DF018349F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B240C4-AB8B-419A-9C61-0DF018349F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC8D33E-0B73-4A20-A254-AC158983BD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC8D33E-0B73-4A20-A254-AC158983BD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC8D33E-0B73-4A20-A254-AC158983BD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC8D33E-0B73-4A20-A254-AC158983BD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

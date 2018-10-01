@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a374b9-3e5d-4e10-879b-729a5c5e766a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/RestSharpUpload.Server.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/Debug/netcoreapp2.1/RestSharpUpload.Server.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/Debug/netcoreapp2.1/RestSharpUpload.Server.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/Debug/netcoreapp2.1/RestSharpUpload.Server.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/Debug/netcoreapp2.1/RestSharpUpload.Server.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/RestSharpUpload.Server.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/RestSharpUpload.Server.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/RestSharpUpload.Server.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.Server/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/RestSharpUpload.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/Debug/netcoreapp2.1/RestSharpUpload.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/Debug/netcoreapp2.1/RestSharpUpload.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/Debug/netcoreapp2.1/RestSharpUpload.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/Debug/netcoreapp2.1/RestSharpUpload.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/RestSharpUpload.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/RestSharpUpload.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/RestSharpUpload.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestSharpUpload/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1710549987">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+          <entry key="csproj" value="2" />
+          <entry key="png" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+          <entry key="Csproj" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="611" />
+          <entry key="csproj" value="49" />
+          <entry key="txt" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="611" />
+          <entry key="Csproj" value="49" />
+          <entry key="PLAIN_TEXT" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <marker date="1538416323626" expanded="true" signature="6:33" ph="..." />
+                <marker date="1538416323626" expanded="true" signature="60:483" ph="{...}" />
+                <marker date="1538416323626" expanded="true" signature="80:481" ph="{...}" />
+                <marker date="1538416323626" expanded="true" signature="113:475" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload/hello.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload/RestSharpUpload.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1538415067389" expanded="false" signature="6:255" ph="..." />
+                <marker date="1538415067389" expanded="true" signature="289:616" ph="{...}" />
+                <marker date="1538415067389" expanded="true" signature="316:614" ph="{...}" />
+                <marker date="1538415067389" expanded="true" signature="369:443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+              <folding>
+                <marker date="1538415191941" expanded="false" signature="6:249" ph="..." />
+                <marker date="1538415191941" expanded="true" signature="283:1015" ph="{...}" />
+                <marker date="1538415191941" expanded="true" signature="310:1013" ph="{...}" />
+                <marker date="1538415191941" expanded="true" signature="325:540" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1538415191941" expanded="true" signature="607:658" ph="{...}" />
+                <marker date="1538415191941" expanded="true" signature="846:1007" ph="{...}" />
+                <marker date="1538415191941" expanded="true" signature="893:970" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+              <folding>
+                <marker date="1538416547723" expanded="true" signature="6:197" ph="..." />
+                <marker date="1538416547723" expanded="true" signature="231:1286" ph="{...}" />
+                <marker date="1538416547723" expanded="true" signature="302:1284" ph="{...}" />
+                <marker date="1538416547723" expanded="true" signature="394:1278" ph="{...}" />
+                <marker date="1538416547723" expanded="true" signature="637:1066" ph="{...}" />
+                <marker date="1538416547723" expanded="true" signature="960:1052" ph="{...}" />
+                <marker date="1538416547723" expanded="true" signature="1080:1185" ph="/* process uploaded files ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RestSharpUpload/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CB3D831-4F0F-4282-8703-D44BA4FF4FDA/0d/a36d35ce/RestRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestSharpUpload.Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestSharpUpload.Server/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RestSharpUpload.Server/Startup.cs" />
+        <option value="$PROJECT_DIR$/RestSharpUpload/hello.txt" />
+        <option value="$PROJECT_DIR$/RestSharpUpload/Program.cs" />
+        <option value="$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs" />
+        <option value="$PROJECT_DIR$/RestSharpUpload/RestSharpUpload.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="942" />
+    <option name="y" value="234" />
+    <option name="width" value="1990" />
+    <option name="height" value="1729" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Dependencies" type="24d0babc:SolutionExplorerModelNode" />
+              <item name=".NETCoreApp 2.1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Packages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RestSharpUpload" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RestSharpUpload.Server" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.RestSharpUpload">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestSharpUpload" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RestSharpUpload/bin/Debug/netcoreapp2.1/RestSharpUpload.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RestSharpUpload" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RestSharpUpload/RestSharpUpload.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestSharpUpload.Server" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RestSharpUpload.Server/bin/Debug/netcoreapp2.1/RestSharpUpload.Server.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RestSharpUpload.Server" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RestSharpUpload.Server/RestSharpUpload.Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.RestSharpUpload.Server" />
+      <item itemvalue=".NET Project.RestSharpUpload" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.RestSharpUpload" />
+        <item itemvalue=".NET Project.RestSharpUpload.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3a374b9-3e5d-4e10-879b-729a5c5e766a" name="Default Changelist" comment="" />
+      <created>1538415022356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538415022356</updated>
+      <workItem from="1538415023790" duration="2052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2052000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="942" y="234" width="1990" height="1729" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.3294263" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3294263" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975324" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs" initialLine="19">
+            <startOffsets>
+              <option value="512" />
+            </startOffsets>
+            <endOffsets>
+              <option value="592" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1538415067389" expanded="false" signature="6:255" ph="..." />
+            <marker date="1538415067389" expanded="true" signature="289:616" ph="{...}" />
+            <marker date="1538415067389" expanded="true" signature="316:614" ph="{...}" />
+            <marker date="1538415067389" expanded="true" signature="369:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1CB3D831-4F0F-4282-8703-D44BA4FF4FDA/0d/a36d35ce/RestRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload/hello.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <marker date="1538415191941" expanded="false" signature="6:249" ph="..." />
+            <marker date="1538415191941" expanded="true" signature="283:1015" ph="{...}" />
+            <marker date="1538415191941" expanded="true" signature="310:1013" ph="{...}" />
+            <marker date="1538415191941" expanded="true" signature="325:540" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1538415191941" expanded="true" signature="607:658" ph="{...}" />
+            <marker date="1538415191941" expanded="true" signature="846:1007" ph="{...}" />
+            <marker date="1538415191941" expanded="true" signature="893:970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <marker date="1538416323626" expanded="true" signature="6:33" ph="..." />
+            <marker date="1538416323626" expanded="true" signature="60:483" ph="{...}" />
+            <marker date="1538416323626" expanded="true" signature="80:481" ph="{...}" />
+            <marker date="1538416323626" expanded="true" signature="113:475" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload.Server/UploadController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <marker date="1538416547723" expanded="true" signature="6:197" ph="..." />
+            <marker date="1538416547723" expanded="true" signature="231:1286" ph="{...}" />
+            <marker date="1538416547723" expanded="true" signature="302:1284" ph="{...}" />
+            <marker date="1538416547723" expanded="true" signature="394:1278" ph="{...}" />
+            <marker date="1538416547723" expanded="true" signature="637:1066" ph="{...}" />
+            <marker date="1538416547723" expanded="true" signature="960:1052" ph="{...}" />
+            <marker date="1538416547723" expanded="true" signature="1080:1185" ph="/* process uploaded files ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestSharpUpload/RestSharpUpload.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
